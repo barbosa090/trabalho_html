@@ -92,6 +92,17 @@ span {
   height: 30vh;
   margin-top: 140px;
   margin-right:1000px; 
-  border: 5px solid rgb(49, 46, 46)
+  border: 10px solid black;
+  
+}
+
+.img2 {
+  display: flex;
+  justify-content: flex-start;
+  width: 30vh;
+  height: 30vh;
+  margin-top: 140px;
+  margin-right: 100px; 
+  border: 10px solid black;
   
 }
