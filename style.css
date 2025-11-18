@@ -6,7 +6,7 @@
 
 body {
   font-family: Arial, sans-serif;
-
+  overflow-x: hidden;
   
 }
 
@@ -21,7 +21,7 @@ main {
   background-repeat: no-repeat;
   background-size: cover;
   margin-right: 0px;
-  height: 89.5vh;
+  height: 91vh;
 }
 
 
@@ -111,6 +111,9 @@ span {
 span {
   color: rgb(173, 12, 12);
 }
+
+
+
 
 
 
